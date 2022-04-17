@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/First section/First exersice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/First section/First exersice/cmake-build-debug/CMakeFiles/First_exersice.dir
+C:/Users/USER/Desktop/First section/First exersice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
